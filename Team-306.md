@@ -1,5 +1,12 @@
 ---
-title: Setting Up Git
+title: Set up Git
 ---
 
-# Home
+# Background: EGR-314, Spring Semester, 2023
+Nathan Hoge, Sam Striffler, Dylan Turner, Jedriq Ventura
+
+## Introduction
+
+## Conclusions
+
+## References
